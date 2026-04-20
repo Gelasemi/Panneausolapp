@@ -1,0 +1,18 @@
+React Frontend (UI + Map)
+        ↓
+Node.js Backend (API + Auth + DB)
+        ↓
+MongoDB + File Storage
+        ↓
+Python AI Engine
+        ↓
+Modules IA :
+- NLP (texte client)
+- OCR (docs)
+- ML (classification + prédiction)
+- Vision (images)
+        ↓
+Services externes :
+- data.gouv (PLU)
+- Géoportail
+- Scraping fallback
